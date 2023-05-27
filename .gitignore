@@ -1,0 +1,8 @@
+__pycache__/
+data/
+datasets/
+gtsrb/
+tsd/
+*.mp4
+resnet/
+ultralytics/runs/
